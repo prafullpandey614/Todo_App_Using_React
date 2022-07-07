@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12) no-repeat center center fixed;
+    
+    
+    color:white
+}
+Header{
+    background: linear-gradient(to right, blue,green);
+}
+.head{
+    color: #051937;
+}
+.btn{
+    background-color: (red,0.8);
+}
+footer{
+  
+    /* top: 100vh; */
+    top: 20vh;
+    width: 100%;
+    margin-top: 0.5rem;
+    padding: 0.4rem 0;
+
+  
+ 
+  
+}
+.rt{
+    width: 40%;
+}
